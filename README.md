@@ -1,0 +1,2 @@
+# Supply Chaim Management
+Supply Chain Management Dashboard project using Excel/Power BI, designed to track procurement, inventory, logistics, and sales performance. Features automated KPIs such as MTD/QTD/YTD Sales, Inventory Turnover, Fill Rate %, Backorder Rate, On‑Time Delivery %, Lead Time, Procurement & Transportation Costs, Forecast Accuracy, and Profitability analysis. Includes interactive dashboards with KPI cards, trend charts, and region/product breakdowns for actionable insights
